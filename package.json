@@ -1,0 +1,20 @@
+{
+  "name": "json-object-copy",
+  "version": "1.0.0",
+  "description": "This will allow you to duplicate a base object for things like results or output data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TechDevils/JsonObjectCopy-npm.git"
+  },
+  "keywords": [
+    "json",
+    "copy",
+    "results"
+  ],
+  "author": "Andrew Ellis-Chadwick",
+  "license": "ISC"
+}
